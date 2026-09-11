@@ -45,6 +45,7 @@ export const metadata: Metadata = {
     title: 'Humanic HR Solutions',
     description:
       'Human Excellence Through Smarter HR - Comprehensive HR services',
+      
   },
 };
 

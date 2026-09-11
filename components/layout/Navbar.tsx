@@ -64,22 +64,22 @@ style={{
 
 <div className="h-full px-4 sm:px-6 lg:px-8 flex items-center justify-between">
 {/* Logo — square SVG icon */}
-<Link href="/" className="flex items-center gap-2.5 group">
+<Link href="/" className="flex items-center gap- group">
 <Image
-src="/logo.png"
+src="/HrsLogo.png"
 alt="Humanic HR Solutions"
-width={60}
-height={60}
+width={80}
+height={80}
 className="object-contain"
 />
-<span className="font-bebas font-bold uppercase tracking-wider whitespace-nowrap flex items-end">
+<span className="font-bebas font-bold uppercase tracking-wider whitespace-nowrap flex items-center h-full">
 <span className="text-[#D49500] text-2xl sm:text-3xl lg:text-3xl">
     Humanic{"  "}
 </span>
 
 
 <span className="relative top-0">
-<span className="relative top-2 flex items-end">
+<span className="relative top-0 flex items-end">
 <span className="text-[#D49500] text-[2.6rem] sm:text-[3.4rem] lg:text-[3rem] leading-none font-extrabold">
     H
 </span>
